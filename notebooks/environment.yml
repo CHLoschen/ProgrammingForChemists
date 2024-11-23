@@ -1,0 +1,13 @@
+name: lecture 
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pandas
+  - nglview
+  - jupyterlab
+  - ase
+  - rdkit
+  - plotly
+  - ipywidgets
+  - scipy
