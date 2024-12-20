@@ -1,6 +1,7 @@
 # ProgrammingForChemists24
 
-Contains notebooks and materials for the lecture Programming for Chemists
+Contains notebooks and materials for the lecture Python Programming for Chemists.
+
 
 ---
 
@@ -42,3 +43,8 @@ Contains notebooks and materials for the lecture Programming for Chemists
 
 ---
 
+
+## References:  
+
+- Lubanovic, Bill. Introducing Python: Modern Computing in Simple Packages. O'Reilly Media, Inc., 2019.   
+- Hill, Christian. Python for Chemists. Cambridge University Press, 2023.   
