@@ -1,6 +1,6 @@
-# ProgrammingForChemists24
+# Python Programming For Chemists
 
-Contains notebooks and materials for the lecture Python Programming for Chemists.
+Contains notebooks and materials for the lecture Python Programming for Chemists (WS 2024/2025).
 
 
 ---
