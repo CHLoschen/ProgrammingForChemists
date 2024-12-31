@@ -37,11 +37,15 @@ These notebooks are part of my lecture Python Programming for Chemists given in 
 
 ---
 
-### Notebook 5b: NumPy, Graph Plotting, and Linear Algebra
+### Notebook 5b: NumPy & Graph Plotting
 [![Open in Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/CHLoschen/ProgrammingForChemists24/main?labpath=notebooks%2Flecture5b.ipynb)
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CHLoschen/ProgrammingForChemists24/blob/main/notebooks/lecture5b.ipynb)
 
 ---
+
+### Notebook 6a: Vectors, Matrices, and Linear Algebra
+[![Open in Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/CHLoschen/ProgrammingForChemists24/main?labpath=notebooks%2Flecture6a.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CHLoschen/ProgrammingForChemists24/blob/main/notebooks/lecture6a.ipynb)
 
 
 ## References:  
