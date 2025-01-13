@@ -47,6 +47,7 @@ These notebooks are part of my lecture Python Programming for Chemists given in 
 [![Open in Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/CHLoschen/ProgrammingForChemists24/main?labpath=notebooks%2Flecture6a.ipynb)
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CHLoschen/ProgrammingForChemists24/blob/main/notebooks/lecture6a.ipynb)
 
+---
 
 ### Notebook 7a: Scientific Python with SciPy 
 [![Open in Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/CHLoschen/ProgrammingForChemists24/main?labpath=notebooks%2Flecture7a.ipynb)
