@@ -5,7 +5,6 @@ These notebooks are part of my lecture Python Programming for Chemists given in 
 
 ---
 
-## Launch Online Jupyter Notebooks:
 
 ### Notebook 1: Introduction & Jupyter 
 [![Open in Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/CHLoschen/ProgrammingForChemists24/main?labpath=notebooks%2Flecture1.ipynb)
