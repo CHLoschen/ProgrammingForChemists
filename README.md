@@ -1,6 +1,6 @@
 # Python Programming For Chemists
 
-These notebooks are part of my lecture Python Programming for Chemists given in WS 2024/2025 at the TH Köln.  
+These notebooks are part of my lecture Python Programming for Chemists given at the TH Köln.  
 
 
 ---
