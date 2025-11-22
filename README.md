@@ -77,11 +77,31 @@ These notebooks are part of my lecture Python Programming for Chemists given at 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CHLoschen/ProgrammingForChemists24/blob/main/notebooks/md_visualisation.ipynb)
 
 
-
-
-
-
 ## References:  
 
 - Lubanovic, Bill. Introducing Python: Modern Computing in Simple Packages. O'Reilly Media, Inc., 2019.   
-- Hill, Christian. Python for Chemists. Cambridge University Press, 2023.   
+- Hill, Christian. Python for Chemists. Cambridge University Press, 2023.
+
+## Installation (Windows — mamba / miniforge)
+
+1. Open the Miniforge releases page: https://github.com/conda-forge/miniforge#miniforge  
+2. Download the Windows installer named like `MiniForge-<version>-Windows-x86_64.exe`.  
+3. Locate the downloaded installer and double-click it to run.  
+4. Follow the installer prompts and accept the default options.  
+5. After installation you should have a "Miniforge Prompt" available.  
+   - Type `miniforge` in the Windows search bar to find it.
+
+## Installation (macOS — mamba / miniforge)
+
+1. Open the Miniforge releases page: https://github.com/conda-forge/miniforge#miniforge  
+2. Choose the installer that matches your Mac architecture:
+   - Apple Silicon (M1/M2): `Miniforge3-MacOSX-arm64.sh`  
+   - Intel mac: `Miniforge3-MacOSX-x86_64.sh`  
+   - A `.pkg` installer may also be available — you can use that for a GUI install.
+3. Download the chosen installer. If you downloaded a `.sh` file, run it from Terminal:
+````bash
+# filepath: (no file path — run in Terminal)
+bash Miniforge3-MacOSX-<arch>.sh
+`````
+
+
