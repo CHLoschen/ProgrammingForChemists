@@ -2,8 +2,7 @@
 
 These notebooks are part of my lecture Python Programming for Chemists given at the TH Köln.  
 
-You can access the notebooks with your browser, but for the course, a local [Installation](#installation) of Python is recommended.
-
+You can access the notebooks with your browser, but for the course, a local [installation](#installation) of Python is recommended.
 
 ---
 
@@ -86,13 +85,13 @@ You can access the notebooks with your browser, but for the course, a local [Ins
 
 ## Installation
 
-To participate any local installation of Python will do, however a 
-mamba or conda installation is preferable, e.g:
+To participate, any local installation of Python will work, however a 
+mamba or conda installation is preferable:
 
 ### Installation (Windows — mamba / miniforge)
 
 1. Open the Miniforge releases page: https://github.com/conda-forge/miniforge#miniforge  
-2. Download the Windows installer named like `MiniForge-<version>-Windows-x86_64.exe`.  
+2. Download the Windows installer named like `Miniforge3-<version>-Windows-x86_64.exe`.  
 3. Locate the downloaded installer and double-click it to run.  
 4. Follow the installer prompts and accept the default options.  
 5. After installation you should have a "Miniforge Prompt" available.  
@@ -102,13 +101,14 @@ mamba or conda installation is preferable, e.g:
 
 1. Open the Miniforge releases page: https://github.com/conda-forge/miniforge#miniforge  
 2. Choose the installer that matches your Mac architecture:
-   - Apple Silicon (M1/M2): `Miniforge3-MacOSX-arm64.sh`  
+   - Apple Silicon (M1/M2/M3/M4): `Miniforge3-MacOSX-arm64.sh`  
    - Intel mac: `Miniforge3-MacOSX-x86_64.sh`  
    - A `.pkg` installer may also be available — you can use that for a GUI install.
 3. Download the chosen installer. If you downloaded a `.sh` file, run it from Terminal:
-````bash
-# filepath: (no file path — run in Terminal)
+```bash
 bash Miniforge3-MacOSX-<arch>.sh
-`````
+```
+   Replace `<arch>` with `arm64` for Apple Silicon or `x86_64` for Intel.
+4. After installation, restart your terminal or run `source ~/.bash_profile` (or `source ~/.zshrc` if using zsh) to activate conda.
 
 
