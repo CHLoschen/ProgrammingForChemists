@@ -2,6 +2,8 @@
 
 These notebooks are part of my lecture Python Programming for Chemists given at the TH Köln.  
 
+You can access the notebooks with your browser, but for the course, a local [Installation](#installation) of Python is recommended.
+
 
 ---
 
@@ -82,7 +84,12 @@ These notebooks are part of my lecture Python Programming for Chemists given at 
 - Lubanovic, Bill. Introducing Python: Modern Computing in Simple Packages. O'Reilly Media, Inc., 2019.   
 - Hill, Christian. Python for Chemists. Cambridge University Press, 2023.
 
-## Installation (Windows — mamba / miniforge)
+## Installation
+
+To participate any local installation of Python will do, however a 
+mamba or conda installation is preferable, e.g:
+
+### Installation (Windows — mamba / miniforge)
 
 1. Open the Miniforge releases page: https://github.com/conda-forge/miniforge#miniforge  
 2. Download the Windows installer named like `MiniForge-<version>-Windows-x86_64.exe`.  
@@ -91,7 +98,7 @@ These notebooks are part of my lecture Python Programming for Chemists given at 
 5. After installation you should have a "Miniforge Prompt" available.  
    - Type `miniforge` in the Windows search bar to find it.
 
-## Installation (macOS — mamba / miniforge)
+### Installation (macOS — mamba / miniforge)
 
 1. Open the Miniforge releases page: https://github.com/conda-forge/miniforge#miniforge  
 2. Choose the installer that matches your Mac architecture:
