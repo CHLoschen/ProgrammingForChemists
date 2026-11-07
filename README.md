@@ -87,7 +87,7 @@ You can access the notebooks with your browser, but for the course, a local [ins
 
 ## Installation
 
-A local Python installation is enough to follow the notebooks. A [Miniforge](https://github.com/conda-forge/miniforge#miniforge) installation (mamba / conda) is preferable. The course packages are listed in [`environment.yml`](environment.yml) at the root of this repository. Binder uses the same file.
+A local Python installation is enough to follow the notebooks. A [Miniforge](https://github.com/conda-forge/miniforge#miniforge) installation (mamba / conda) is preferable. The course packages are listed in [`environment.yml`](environment.yml) at the root of this repository. Binder uses the same file. RDKit, ASE, nglview, and Plotly are installed with `!pip` in the notebooks that use them.
 
 ### Installation (Windows — mamba / miniforge)
 
