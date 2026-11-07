@@ -1,0 +1,5 @@
+# Build dependencies for the JupyterLite GitHub Pages site.
+# Kept out of the repository root so Binder keeps using environment.yml.
+jupyterlite-core==0.8.2
+jupyterlite-pyodide-kernel==0.8.3
+jupyter-server
