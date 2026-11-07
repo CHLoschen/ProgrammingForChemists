@@ -4,6 +4,7 @@ These notebooks are part of my lecture Python Programming for Chemists given at 
 
 You can access the notebooks with your browser, but for the course, a local [installation](#installation) of Python is recommended.
 
+Although they can be used stand-alone, it is recommended to use them together with with lecture material provided during the course. 
 ---
 
 
