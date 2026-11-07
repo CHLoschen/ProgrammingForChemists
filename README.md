@@ -1,10 +1,11 @@
 # Python Programming For Chemists
 
-These notebooks are part of my lecture Python Programming for Chemists given at the TH Köln.  
+These notebooks are part of my lecture Scientific Python Programming for Chemists at the TH Köln.  
 
-You can access the notebooks with your browser, but for the course, a local [installation](#installation) of Python is recommended.
+You can access the notebooks with your browser, but for the course, a local [installation](#installation) of Python is recommended.   
 
-Although they can be used stand-alone, it is recommended to use them together with with lecture material provided during the course. 
+> **Note:** Although the notebooks can be used without context, it is recommended to use them together with the lecture material provided during the course. 
+
 ---
 
 
