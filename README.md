@@ -10,74 +10,74 @@ You can access the notebooks with your browser, but for the course, a local [ins
 
 
 ### Notebook 1: Introduction & Jupyter 
-[![Open in Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/CHLoschen/ProgrammingForChemists24/main?labpath=notebooks%2Flecture1.ipynb)
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CHLoschen/ProgrammingForChemists24/blob/main/notebooks/lecture1.ipynb)
+[![Open in Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/CHLoschen/ProgrammingForChemists24/main?labpath=notebooks%2Flecture1.ipynb)
 
 ---
 
 ### Notebook 2: Python Basics
-[![Open in Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/CHLoschen/ProgrammingForChemists24/main?labpath=notebooks%2Flecture2.ipynb)
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CHLoschen/ProgrammingForChemists24/blob/main/notebooks/lecture2.ipynb)
+[![Open in Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/CHLoschen/ProgrammingForChemists24/main?labpath=notebooks%2Flecture2.ipynb)
 
 ---
 
 ### Notebook 3: Data Types and Structures
-[![Open in Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/CHLoschen/ProgrammingForChemists24/main?labpath=notebooks%2Flecture3.ipynb)
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CHLoschen/ProgrammingForChemists24/blob/main/notebooks/lecture3.ipynb)
+[![Open in Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/CHLoschen/ProgrammingForChemists24/main?labpath=notebooks%2Flecture3.ipynb)
 
 ---
 
 ### Notebook 4: Dictionaries and Functions
-[![Open in Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/CHLoschen/ProgrammingForChemists24/main?labpath=notebooks%2Flecture4.ipynb)
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CHLoschen/ProgrammingForChemists24/blob/main/notebooks/lecture4.ipynb)
+[![Open in Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/CHLoschen/ProgrammingForChemists24/main?labpath=notebooks%2Flecture4.ipynb)
 
 ---
 
 ### Notebook 5a: Reading and Writing Files
-[![Open in Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/CHLoschen/ProgrammingForChemists24/main?labpath=notebooks%2Flecture5a.ipynb)
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CHLoschen/ProgrammingForChemists24/blob/main/notebooks/lecture5a.ipynb)
+[![Open in Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/CHLoschen/ProgrammingForChemists24/main?labpath=notebooks%2Flecture5a.ipynb)
 
 ---
 
 ### Notebook 5b: NumPy & Graph Plotting
-[![Open in Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/CHLoschen/ProgrammingForChemists24/main?labpath=notebooks%2Flecture5b.ipynb)
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CHLoschen/ProgrammingForChemists24/blob/main/notebooks/lecture5b.ipynb)
+[![Open in Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/CHLoschen/ProgrammingForChemists24/main?labpath=notebooks%2Flecture5b.ipynb)
 
 ---
 
 ### Notebook 6a: NumPy: Vectors, Matrices, and Linear Algebra
-[![Open in Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/CHLoschen/ProgrammingForChemists24/main?labpath=notebooks%2Flecture6a.ipynb)
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CHLoschen/ProgrammingForChemists24/blob/main/notebooks/lecture6a.ipynb)
+[![Open in Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/CHLoschen/ProgrammingForChemists24/main?labpath=notebooks%2Flecture6a.ipynb)
 
 ---
 
 ### Notebook 7a: Scientific Python with SciPy 
-[![Open in Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/CHLoschen/ProgrammingForChemists24/main?labpath=notebooks%2Flecture7a.ipynb)
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CHLoschen/ProgrammingForChemists24/blob/main/notebooks/lecture7a.ipynb)
+[![Open in Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/CHLoschen/ProgrammingForChemists24/main?labpath=notebooks%2Flecture7a.ipynb)
 
 ---
 
 ### Notebook 7b: Pandas
-[![Open in Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/CHLoschen/ProgrammingForChemists24/main?labpath=notebooks%2Flecture7b.ipynb)
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CHLoschen/ProgrammingForChemists24/blob/main/notebooks/lecture7b.ipynb)
+[![Open in Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/CHLoschen/ProgrammingForChemists24/main?labpath=notebooks%2Flecture7b.ipynb)
 
 ---
 
 ### Notebook 7c: Object-Oriented Programming
-[![Open in Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/CHLoschen/ProgrammingForChemists24/main?labpath=notebooks%2Flecture7c.ipynb)
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CHLoschen/ProgrammingForChemists24/blob/main/notebooks/lecture7c.ipynb)
+[![Open in Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/CHLoschen/ProgrammingForChemists24/main?labpath=notebooks%2Flecture7c.ipynb)
 
 ---
 
 ### Outlook: Cheminformatics
-[![Open in Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/CHLoschen/ProgrammingForChemists24/main?labpath=notebooks%2Fcheminf.ipynb)
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CHLoschen/ProgrammingForChemists24/blob/main/notebooks/cheminf.ipynb)
+[![Open in Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/CHLoschen/ProgrammingForChemists24/main?labpath=notebooks%2Fcheminf.ipynb)
 
 ---
 
 ### Outlook: Molecular Simulation
-[![Open in Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/CHLoschen/ProgrammingForChemists24/main?labpath=notebooks%2Fmd_visualisation.ipynb)
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CHLoschen/ProgrammingForChemists24/blob/main/notebooks/md_visualisation.ipynb)
+[![Open in Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/CHLoschen/ProgrammingForChemists24/main?labpath=notebooks%2Fmd_visualisation.ipynb)
 
 
 ## References:  
@@ -87,8 +87,7 @@ You can access the notebooks with your browser, but for the course, a local [ins
 
 ## Installation
 
-To participate, any local installation of Python will work, however a 
-mamba or conda installation is preferable:
+A local Python installation is enough to follow the notebooks. A [Miniforge](https://github.com/conda-forge/miniforge#miniforge) installation (mamba / conda) is preferable. The course packages are listed in [`environment.yml`](environment.yml) at the root of this repository. Binder uses the same file.
 
 ### Installation (Windows — mamba / miniforge)
 
@@ -112,5 +111,17 @@ bash Miniforge3-MacOSX-<arch>.sh
 ```
    Replace `<arch>` with `arm64` for Apple Silicon or `x86_64` for Intel.
 4. After installation, restart your terminal or run `source ~/.bash_profile` (or `source ~/.zshrc` if using zsh) to activate conda.
+
+### Course environment
+
+Open a terminal (on Windows, the Miniforge Prompt) in this repository and create the environment named `lecture`:
+
+```bash
+mamba env create -f environment.yml
+mamba activate lecture
+jupyter lab
+```
+
+`conda` accepts the same commands when `mamba` is not on your `PATH`.
 
 
