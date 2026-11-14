@@ -87,41 +87,36 @@ You can access the notebooks with your browser, but for the course, a local [ins
 
 ## Installation
 
-A local Python installation is enough to follow the notebooks. A [Miniforge](https://github.com/conda-forge/miniforge#miniforge) installation (mamba / conda) is preferable. The course packages are listed in [`environment.yml`](environment.yml) at the root of this repository. RDKit, ASE, nglview, and Plotly are installed with `!pip` in the notebooks that use them.
+For the course, a local Python setup with [uv](https://docs.astral.sh/uv/) is recommended. uv installs Python itself and manages the course packages, which are listed in [`pyproject.toml`](pyproject.toml) at the root of this repository.
 
-### Installation (Windows — mamba / miniforge)
+### 1. Download the notebooks (no GitHub account needed)
 
-1. Open the Miniforge releases page: https://github.com/conda-forge/miniforge#miniforge  
-2. Download the Windows installer named like `Miniforge3-<version>-Windows-x86_64.exe`.  
-3. Locate the downloaded installer and double-click it to run.  
-4. Follow the installer prompts and accept the default options.  
-5. After installation you should have a "Miniforge Prompt" available.  
-   - Type `miniforge` in the Windows search bar to find it.
+Click the green **Code** button on this page → **Download ZIP** (or use [this direct link](https://github.com/CHLoschen/ProgrammingForChemists/archive/refs/heads/main.zip)) and extract it. You get a folder `ProgrammingForChemists-main`.
 
-### Installation (macOS — mamba / miniforge)
+### 2. Install uv
 
-1. Open the Miniforge releases page: https://github.com/conda-forge/miniforge#miniforge  
-2. Choose the installer that matches your Mac architecture:
-   - Apple Silicon (M1/M2/M3/M4): `Miniforge3-MacOSX-arm64.sh`  
-   - Intel mac: `Miniforge3-MacOSX-x86_64.sh`  
-   - A `.pkg` installer may also be available — you can use that for a GUI install.
-3. Download the chosen installer. If you downloaded a `.sh` file, run it from Terminal:
-```bash
-bash Miniforge3-MacOSX-<arch>.sh
-```
-   Replace `<arch>` with `arm64` for Apple Silicon or `x86_64` for Intel.
-4. After installation, restart your terminal or run `source ~/.bash_profile` (or `source ~/.zshrc` if using zsh) to activate conda.
+Windows: open **PowerShell** (type `powershell` in the Windows search bar) and run
 
-### Course environment
-
-Open a terminal (on Windows, the Miniforge Prompt) in this repository and create the environment named `lecture`:
-
-```bash
-mamba env create -f environment.yml
-mamba activate lecture
-jupyter lab
+```powershell
+powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | iex"
 ```
 
-`conda` accepts the same commands when `mamba` is not on your `PATH`.
+macOS / Linux: open a terminal and run
 
+```bash
+curl -LsSf https://astral.sh/uv/install.sh | sh
+```
 
+Close and reopen the terminal afterwards and check the installation with `uv --version`.
+
+### 3. Install the course environment and start Jupyter
+
+```bash
+cd ProgrammingForChemists-main
+uv sync                  # installs Python and all course packages into .venv
+uv run jupyter lab
+```
+
+To add further packages later, use `uv add <package>`.
+
+When running the notebooks online (Colab / JupyterLite), the `!pip install` cells in the notebooks install the packages that are needed.
